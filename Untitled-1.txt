@@ -1,0 +1,166 @@
+div class="row">
+<div class="container-fluid">
+div class="wrap">
+		<nav id="w4" class="navbar-expand-lg navbar-light bg-light shadow-sm fixed-top navbar" style="display:flex; justify-content:center; float:none;">
+		<div class="container-fluid">
+		
+		<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#w4-collapse" aria-controls="w4-collapse" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+		<div id="w4-collapse" class="collapse navbar-collapse">
+		<ul id="w5" class="navbar-nav navbar-expand-lg nav" style="display:flex; justify-content:center; float:none;">
+		<li>
+		</li>
+		<li class="nav-item"><a class="nav-link" href="womens"> <h3 font-family: "sans-serif", style="color:#000000"> WOMEN'S</h3> </a></li>
+		<li class="nav-item"><a class="nav-link" href="men.html"> <h3 font-family: "sans-serif", style="color:#000000"> MEN'S</h3>  </a></li>
+		<li class="nav-item"><a class="nav-link" href="kids.html"> <h3 font-family: "sans-serif", style="color:#000000"> KIDS</h3>  </a></li>
+		<li class="nav-item"><a class="nav-link" href="accessories.html"><h3 font-family: "sans-serif", style= "color:#FF0000"> SALE </h3> </a></li>
+		<li class="nav-logo nav-item"><a class="nav-link active" href="index.html"><h4 font-family: "cursive", style="color:#000000"  >my-Duka</h4></a></li>
+	 <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Accessories</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Gold</a>
+                <a class="dropdown-item" href="#">Silver</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Platinum</a>
+              </div>
+            </li>
+     <form action="search" class="form-inline border-dark rounded-pill ml-3">
+		 <input class="form-control form-control-sm border-dark rounded-pill mr-2 w-85 search-inp" type="text" placeholder="Search" name="keyword" value="" aria-label="Search">
+		   <button class="btn btn-outline-dark btn-sm rounded-pill"><i class="fas fa-search" aria-hidden="true"></i></button>
+		 </form>
+    	<li class="nav-item"><i class="fas fa-shopping-bag fa-3x"></i>cart</i></li>
+		</nav>	
+<div class="col-md-11> 
+     <div class="content-main">
+			<div class="container newproduct">
+			    <div class="corner-text">
+					<div class="row">
+					<div class="col-md-8"
+				 <a href="new" class="custom-card" class"left">
+				     <div class="col card-1">
+				         <img class="" src="image/red.jpg" styles="width:150px; ,height:80px"   alt="Card image cap">
+				     </div>
+					 </div>
+					 <div class="col-md-4">
+                     <h2 font-family:"Porter Sans Block" class="main">BUILIT <p> FOR </p> FIGHT </h2>
+					 </div>
+                   
+					<div class="col-md-8">
+					<button type="button" class="btn btn-secondary btn-lg">SHOP</button>
+					 </div>
+					 <div class="col-md-4">
+					 <h3 font-family:"Porter Sans Block"> <p> our tougest design yet</p>builit for the jungle <br> unleash your wildside </h3>
+
+			    </div>
+			</div>
+			  
+<!--New Releases carousel-->
+<div class="container-fluid ">
+    <div class="row">
+     <h2 class="text-left"> New Releases</h2>
+     <div class="col-md-12 ">
+        <!--Carousel Wrapper-->
+<div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel">
+
+    <!--Controls-->
+    <div class="controls-top">
+      <a class="btn-floating" href="#multi-item-example" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+      <a class="btn-floating" href="#multi-item-example" data-slide="next"><i
+          class="fa fa-chevron-right"></i></a>
+    </div>
+    <!--/.Controls-->
+  
+    <!--Indicators-->
+    <ol class="carousel-indicators">
+      <li data-target="#multi-item-example" data-slide-to="0" class="active"></li>
+      <li data-target="#multi-item-example" data-slide-to="1"></li>
+      
+    </ol>
+    <!--/.Indicators-->
+  
+    <!--Slides-->
+    <div class="carousel-inner" role="listbox">
+  
+      <!--First slide-->
+      <div class="carousel-item active">
+  
+        <div class="col-md-4" style="float:left;">
+         <div class="card mb-2">
+            <img class="card-img-top img-fluid" src="image/red.jpg" alt="">
+            
+          </div>
+          <h4 class="card-title">Product Name</h4>
+          <p class="card-text">Ksh.2000</p>
+        </div>
+  
+       
+        <div class="col-md-4" style="float:left">
+            <div class="card mb-2">
+               <img class="card-img-top img-fluid " src="image/wise.jpg" style="width:330px; height:260px;" alt="">
+               
+             </div>
+             <h4 class="card-title">Product Name</h4>
+             <p class="card-text">Ksh.2000</p>
+           </div>
+        
+           <div class="col-md-4" style="float:left">
+            <div class="card mb-2">
+               <img class="card-img-top img-fluid " src="image/red.jpg" alt="Card image cap">
+               
+             </div>
+             <h4 class="card-title">Product Name</h4>
+             <p class="card-text">Ksh.2000</p>
+           </div>
+  
+      </div>
+      <!--/.First slide-->
+  
+      <!--Second slide-->
+      <div class="carousel-item">
+  
+        <div class="col-md-4" style="float:left">
+            <div class="card mb-2">
+               <img class="card-img-top img-fluid" src="image/red.jpg" alt="">
+               
+             </div>
+             <h4 class="card-title">Product Name</h4>
+             <p class="card-text">Ksh.2000</p>
+           </div>
+  
+           <div class="col-md-4" style="float:left">
+            <div class="card mb-2">
+               <img class="card-img-top img-fluid" src="image/new.jpg" alt="">
+               
+             </div>
+             <h4 class="card-title">Product Name</h4>
+             <p class="card-text">Ksh.2000</p>
+           </div>
+  
+        
+           <div class="col-md-4" style="float:left">
+            <div class="card mb-2">
+               <img class="card-img-top img-fluid" src="image/shine.jpg" alt="">
+               
+             </div>
+             <h4 class="card-title">Product Name</h4>
+             <p class="card-text">Ksh.2000</p>
+           </div>
+  
+      </div>
+      <!--/.Second slide-->
+  
+     
+  
+    </div>
+    <!--/.Slides-->
+  
+  </div>
+  <!--/.Carousel Wrapper-->  
+</div>
+      
+        </div>
+        </div>
+      <!--end-->
+</div>
+</div>
+</div>
+</div>
