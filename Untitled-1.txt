@@ -1,0 +1,42 @@
+nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="WOMENS"><h3 font-family: "sans-serif", style="color:#000000"> WOMEN'S</h3> <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="Mens"> <h3 font-family: "sans-serif", style="color:#000000">MEN'S</h3> </a>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link" href="Mens"> <h3 font-family: "sans-serif", style="color:#000000">KID'S</h3> </a>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link" href="Mens"> <h3 font-family: "sans-serif", style="color:#FF0000">SALE</h3> </a>
+      </li>
+       <a class="navbar-brand" href="#"><h4 font-family: "cursive", style="color:#000000"  >my-Duka</h4></a>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          my account
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">log in </a>
+          <a class="dropdown-item" href="#">sign up</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">my account</a>
+        </div>
+      </li>
+    </ul>
+      <ul class="nav nav-pills">
+            <li class="nav-item">
+              <a class="nav-link" href="#mdo"><i class="fa fa-shopping-bag" aria-hidden="true"></i></a>
+            </li>
+           
+          </ul>
+           <form id="demo-2">
+            <input type="search" placeholder="Search">
+        </form> 
+</nav>

@@ -72,7 +72,7 @@
           <img src="image/red.jpg" style="width:50%;" class="built" >
           </div>
            <div class="explore col-lg-4" >
-            <h2 font-family:"Porter Sans Block" class="fight" > BUILIT <p> FOR </p> FIGHT </h2>
+            <h2 font-family:"Porter Sans Block" class="fight" > BUILT <p> FOR </p> FIGHT </h2>
          </div>
       
         </div>
@@ -88,7 +88,7 @@
          <button class="btn btn-dark btn-lg " style="margin-left:200px;">Shop</button>
 </div>
 <div class="col-md-4">
-<h3 font-family:"Porter Sans Block"> <p> our tougest design yet</p>builit for the jungle <br> unleash your wildside </h3>
+<h3 font-family:"Porter Sans Block"> <p> our tougest design yet</p> Built for the jungle <br> unleash your wildside </h3>
 </div>
 </div>
 <!--New releases-->
